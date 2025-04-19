@@ -1,0 +1,17 @@
+	@font-face{ 
+	font-family: 'Montserrat';
+	src: url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-SemiBold-webfont.eot');
+	src: url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-SemiBold-webfont.eot?iefix') format('eot'),
+	     url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-SemiBold-webfont.woff') format('woff'),
+	     url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-SemiBold-webfont.ttf') format('truetype'),
+	     url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-SemiBold-webfont.svg') format('svg');
+	}
+
+	@font-face{ 
+	font-family: 'Montserrat-Light-webfont';
+	src: url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-Light-webfont.eot');
+	src: url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-Light-webfont.eot?iefix') format('eot'),
+	     url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-Light-webfont.woff') format('woff'),
+	     url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-Light-webfont.ttf') format('truetype'),
+	     url('https://preview.hasthemes.com/tasfiu-preview/tasfiu-light/fonts/Montserrat-Light-webfont.svg') format('svg');
+	}
